@@ -4,7 +4,9 @@
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-20232a?style=for-the-badge&logo=html5&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="CSS3" src="https://img.shields.io/badge/css3-20232a?style=for-the-badge&logo=css3&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-20232a?style=for-the-badge&logo=javascript&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="React.js" src="https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=20232a&labelColor=58a6ff" height="35"> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232a?style=for-the-badge&logo=Bootstrap&logoColor=20232a&labelColor=58a6ff" height="35"> 
-<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-20232a?style=for-the-badge&logo=TailwindCSS&logoColor=20232a&labelColor=58a6ff" height="35"> 
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232a?style=for-the-badge&logo=Tailwind&logoColor=20232a&labelColor=58a6ff" height="35"> 
+<img alt="MUI" src="https://img.shields.io/badge/MUI-20232a?style=for-the-badge&logo=MUI&logoColor=20232a&labelColor=58a6ff" height="35"> 
+<img alt="chkra-ui" src="https://img.shields.io/badge/chakra-ui-20232a?style=for-the-badge&logo=chakraui&logoColor=20232a&labelColor=58a6ff" height="35"> 
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
